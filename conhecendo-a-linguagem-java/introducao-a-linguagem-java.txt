@@ -1,0 +1,31 @@
+## o que é java?
+
+é um conjunto bem definido de funcionalidades
+(features) que sao super recomendaddas para voce
+entusiasta em programacao conhecer o maximo que
+puder.
+
+##java é fácil de aprender?
+
+sim, a simplicidade era o objetivo do designn dos 
+povos Javasoft, porque ele tem que tem que funcionar
+em dispositivos que usa menos memoria/recursos
+que estao disponiveis.
+
+## orientada a obejtos?
+
+isso significa que tudo em java é escrito em
+classes e objetos.
+
+## pilares da programacao orientada a objetos.
+
+classe e objeto, encapsulamento, abstracao,
+heranca e polimorfismo.
+
+## plataforma independente
+
+objetivo do java é ser uma linguagem que funcione
+em qualquer sistema.
+
+## 
+
